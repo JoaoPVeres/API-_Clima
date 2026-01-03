@@ -16,5 +16,5 @@ __pycache__/
 # Logs
 *.log
 
-# Dados temporários
+# Dados temporáriosnor
 raw/*.csv
